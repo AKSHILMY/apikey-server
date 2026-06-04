@@ -1,0 +1,5 @@
+fastapi>=0.100
+uvicorn[standard]>=0.29
+python-dotenv>=1.0
+pydantic-settings>=2.0
+apikeys-platform[sqlite,fastapi]>=0.2.0
